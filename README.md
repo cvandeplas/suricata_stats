@@ -2,6 +2,8 @@ suricata_stats
 ==============
 Statistics parsing for suricata
 
+Please read http://christophe.vandeplas.com/2013/11/suricata-monitoring-with-zabbix-or-other.html for more details
+
 Copyleft GPLv3 - Christophe Vandeplas - christophe@vandeplas.com  
 Feel free to use the code, but please share the changes you've made
 
